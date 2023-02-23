@@ -1,1 +1,3 @@
-Git dersi i,çin oluşturdum.
+Git dersi için oluşturdum.
+
+İkinci commit için.
